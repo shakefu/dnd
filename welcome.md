@@ -48,9 +48,9 @@ You must roll all hit dice for your hit points in front of the group, if you cho
 
 #### Starting Equipment
 
-If you are keeping your existing character, you may keep your equipment and valuables, and up to 1/5th of the group's gold. If there are items that were not on your character at the time we ended, you do not have them, even if they were group items.
-
 If you are creating a new character may keep or sell your starting class equipment for full price.  You also have up to 2d4  x100 gold pieces in your personal treasure hoard, which you may spend or keep as you see fit. This must be rolled in front of the group.
+
+If you are keeping your existing character, you may keep your equipment and valuables, and up to 1/5th of the group's gold. If there are items that were not on your character at the time we ended, you do not have them, even if they were group items.
 
 ### High Magic
 
