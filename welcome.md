@@ -54,9 +54,11 @@ If you are creating a new character may keep or sell your starting class equipme
 
 ### High Magic
 
-We are going to play a high magic campaign, where lots of magical items and spells abound. Magical casters, potions, weapons and armor abound in the Sword Coast at this time, but that has forced the cost of purchasing them up dramatically, as well as kept the selling prices low.
+We are going to play a high magic campaign, where lots of magical items and spells abound. Magical casters, potions, weapons and armor are daily occurences in the Sword Coast at this time, but that has forced the cost of purchasing them up dramatically, as well as kept the selling prices low.
 
-The cost of purchasing Common and Uncommon magical items will be scaled with your adventuring party level as shopkeepers and traders see a good opportunity to make a quick buck.
+The cost of purchasing magical items will be scaled with your adventuring party level as shopkeepers and traders see a good opportunity to make a quick buck. This is to ensure that the economics of the party doesn't get wildly out of hand.
+
+You may want to consider investing in chests, saddlebags, wagons, or even houses to keep your wealth so that you don't lose and can accrue enough to purchase that shiny Legendary Battleax of Beerswilling you've been eyeing. Beware the thief, brigand, and pick pocket!
 
 ### Inventory
 
