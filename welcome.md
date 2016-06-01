@@ -58,7 +58,7 @@ We are going to play a high magic campaign, where lots of magical items and spel
 
 The cost of purchasing magical items will be scaled with your adventuring party level as shopkeepers and traders see a good opportunity to make a quick buck. This is to ensure that the economics of the party doesn't get wildly out of hand.
 
-You may want to consider investing in chests, saddlebags, wagons, or even houses to keep your wealth so that you don't lose and can accrue enough to purchase that shiny Legendary Battleax of Beerswilling you've been eyeing. Beware the thief, brigand, and pick pocket!
+You may want to consider investing in chests, saddlebags, wagons, or even houses to keep your wealth so that you don't lose it, and can accrue enough to purchase that shiny Legendary Battleax of Beerswilling you've been eyeing. Beware the thief, brigand, and pick pocket!
 
 ### Inventory
 
