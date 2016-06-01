@@ -34,7 +34,7 @@ If you're interested in an alternate race or tweaking an existing one, that can 
 
 You may multiclass at will, but you must declare your next class when you are levelling up. For example, when you reach level 4, you may declare you are training a level in Fighter, and when you reach level 5, you will gain that first class level.
 
-##### Starting Level
+#### Starting Level
 
 We are creating new characters at **Level 3**, with 1500 XP total.
 
@@ -44,7 +44,7 @@ Don't worry about being behind in XP if you choose to make a new character, by l
 
 You must roll all hit dice for your hit points in front of the group, if you choose to not take the average.
 
-##### Starting Equipment
+#### Starting Equipment
 
 If you are keeping your existing character, you may keep your equipment and valuables, and up to 1/5th of the group's gold. If there are items that were not on your character at the time we ended, you do not have them, even if they were group items.
 
@@ -66,7 +66,7 @@ We will go over inventory in the first session to make sure everyone knows how t
 
 Each player will have their own inventory and gold, which is their private ownership. There will be no group loot or items.
 
-##### Rolling for Loot
+#### Rolling for Loot
 
 When treasure is found or recovered from a monster, all players will roll 1d6 to determine the order in which they may choose treasure. Each player chooses one item or a handful of coins to take until all the treasure is gone.
 
