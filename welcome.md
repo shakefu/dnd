@@ -20,9 +20,9 @@ Because if there's no rules, how do we know when Riad is wrong?
 
 1. Have fun!
 2. Having fun is more important than the rules.
-4. Be polite! (Talking over other people is rude.)
-5. Remember it's just a game, don't get mad.
-3. If you're not having fun, let's figure out how to make it fun, together!
+3. Be polite! (Talking over other people is rude.)
+4. Remember it's just a game, don't get mad.
+5. If you're not having fun, let's figure out how to make it fun, together!
 
 ### Characters
 
@@ -72,4 +72,26 @@ When treasure is found or recovered from a monster, all players will roll 1d6 to
 
 If someone gets treasure you wanted, **remember Rule #5**, and that you can negotiate, barter, trade, and buy things from each other, *in character*. And if they don't want to trade, maybe you'll get the phat loot they wanted, and can trade next time.
 
+### Combat
 
+We love to kill things!
+
+Get out your rulers! The only thing we're doing differently this time is getting rid of the grid! One inch is equal to five feet. Let's have some fun with it!
+
+Also the maps are gonna be sick.
+
+### Inspiration
+
+Keeping in the theme with the high magic nature of our world, we're going to try a new thing. Instead of inspiration tokens for advantage, when you roleplay well, you'll receive inspiration in the form of consumable magical trinkets, potions, or other supplies from the Gods, Hunger Games style.
+
+These will count towards your inventory, and you may not hold more than your current level at a given time, however they cannot be sold. You may drop them if you wish to hurt the DM's feelings.
+
+You will keep all your inspiration between sessions.
+
+### Playing
+
+We're going to keep it flexible since we all have different schedules. But we're going to start each session with nailing down the next date. Keep them calendars updated so we can play often!
+
+Experience! We need it. You want it. You get it when you show up. Try to show up, so you don't get too far behind and get eaten by a dragon.
+
+Once again, always remember **Rule #1**! Have fun!
