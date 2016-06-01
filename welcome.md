@@ -34,6 +34,8 @@ If you're interested in an alternate race or tweaking an existing one, that can 
 
 You may multiclass at will, but you must declare your next class when you are levelling up. For example, when you reach level 4, you may declare you are training a level in Fighter, and when you reach level 5, you will gain that first class level.
 
+You may create backstories together explaining what has brought your group together, or on your own. Bonus points for depth and motivation for your character!
+
 #### Starting Level
 
 We are creating new characters at **Level 3**, with 1500 XP total.
@@ -88,10 +90,21 @@ These will count towards your inventory, and you may not hold more than your cur
 
 You will keep all your inspiration between sessions.
 
+
+### Experience and Levelling
+
+We're doing an XP game. So experience points will be given for successfully nagivating any encounter, for good roleplay, and for making tough in-character decisions. Navigating an encounter might mean killing all your enemies, or taking prisoners, or causing them to run away, or bartering with them to get your goal, or simply avoiding an ambush through stealth and planning. An encounter might be a tough negotiation between Kingdoms or solving riddles of a gatekeeping Wyvern.
+
+If you fail, run away, get caught, get killed, or do the whole encounter out-of-character, you won't get much, if any experience.
+
+If we play well and keep on task, and y'know, don't get too drunk :beer:, we should get enough experience to be leveling every three or four sessions, fairly consistently, but there are no guaranteed levels.
+
+Try to prepare if you know you have a level coming up, so that you can level up your character quickly. You can level on a short or long rest, if you are prepared. Otherwise, if you do not know which choices you want to make, you can level at the end of the session.
+
 ### Playing
 
 We're going to keep it flexible since we all have different schedules. But we're going to start each session with nailing down the next date. Keep them calendars updated so we can play often!
 
-Experience! We need it. You want it. You get it when you show up. Try to show up, so you don't get too far behind and get eaten by a dragon.
+Experience! We need it. You want it. You get it when you show up. Try to show up, so you don't get too far behind and get eaten by a Dragon.
 
 Once again, always remember **Rule #1**! Have fun!
