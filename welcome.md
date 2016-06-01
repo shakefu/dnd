@@ -88,10 +88,9 @@ Also the maps are gonna be sick.
 
 Keeping in the theme with the high magic nature of our world, we're going to try a new thing. Instead of inspiration tokens for advantage, when you roleplay well, you'll receive inspiration in the form of consumable magical trinkets, potions, or other supplies from the Gods, Hunger Games style.
 
-These will count towards your inventory, and you may not hold more than your current level at a given time, however they cannot be sold. You may drop them if you wish to hurt the DM's feelings.
+These **will** count towards your inventory and encumberance, and you may not hold more than your current level at a given time. They may not be sold or traded to NPCs, however they can be given or traded within the party. You may drop them if you wish to hurt the DM's feelings.
 
 You will keep all your inspiration between sessions.
-
 
 ### Experience and Levelling
 
