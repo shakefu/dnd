@@ -36,9 +36,13 @@ You may multiclass at will, but you must declare your next class when you are le
 
 ##### Starting Level
 
-We are creating new Characters at level 3. You have the option of keeping an existing character from our Out of the Abyss campaign, and if you do so, you will reset your total XP to 2700, the starting value for level 4.
+We are creating new characters at **Level 3**, with 900 XP.
 
-You must roll all hit dice in front of the group, if you do not take the average.
+You have the option of keeping an existing character from our Out of the Abyss campaign, and if you do so, you will reset your total to 2700 XP, the starting value for level 4, because undoing levels is hard.
+
+Don't worry about being behind in XP if you choose to make a new character, by level 5 you will all be in the same bracket.
+
+You must roll all hit dice for your hit points in front of the group, if you choose to not take the average.
 
 ##### Starting Equipment
 
@@ -46,8 +50,16 @@ If you are keeping your existing character, you may keep your equipment and valu
 
 If you are creating a new character may keep or sell your starting class equipment for full price.  You also have up to 2d4  x100 gold pieces in your personal treasure hoard, which you may spend or keep as you see fit. This must be rolled in front of the group.
 
+### High Magic
+
+We are going to play a high magic campaign, where lots of magical items and spells abound. Magical casters, potions, weapons and armor abound in the Sword Coast at this time, but that has forced the cost of purchasing them up dramatically, as well as kept the selling prices low.
+
+The cost of purchasing Common and Uncommon magical items will be scaled with your adventuring party level as shopkeepers and traders see a good opportunity to make a quick buck.
+
 ### Inventory
 
+We are going to track inventory closely, as well as carrying weight and encumberance. Since this is a **High Magic** campaign, you are not allowed to to assume everything will fit in your backpack, or multiple bags of holding. :wink:
 
+We are going to use graph paper to track inventory, where each grid square represents one pound of carry weight. When you add an item to your inventory, you must be able to find a contiguous block of squares equal to the item weight, or you cannot fit it on your person.
 
-
+We will go over inventory in the first session to make sure everyone knows how to track it.
