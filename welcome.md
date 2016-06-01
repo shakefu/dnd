@@ -20,7 +20,7 @@ Because if there's no rules, how do we know when Riad is wrong?
 
 1. Have fun!
 2. Having fun is more important than the rules.
-4. Be polite! Talking over other people is rude.
+4. Be polite! (Talking over other people is rude.)
 5. Remember it's just a game, don't get mad.
 3. If you're not having fun, let's figure out how to make it fun, together!
 
@@ -36,7 +36,7 @@ You may multiclass at will, but you must declare your next class when you are le
 
 ##### Starting Level
 
-We are creating new characters at **Level 3**, with 900 XP.
+We are creating new characters at **Level 3**, with 1500 XP total.
 
 You have the option of keeping an existing character from our Out of the Abyss campaign, and if you do so, you will reset your total to 2700 XP, the starting value for level 4, because undoing levels is hard.
 
@@ -63,3 +63,13 @@ We are going to track inventory closely, as well as carrying weight and encumber
 We are going to use graph paper to track inventory, where each grid square represents one pound of carry weight. When you add an item to your inventory, you must be able to find a contiguous block of squares equal to the item weight, or you cannot fit it on your person.
 
 We will go over inventory in the first session to make sure everyone knows how to track it.
+
+Each player will have their own inventory and gold, which is their private ownership. There will be no group loot or items.
+
+##### Rolling for Loot
+
+When treasure is found or recovered from a monster, all players will roll 1d6 to determine the order in which they may choose treasure. Each player chooses one item or a handful of coins to take until all the treasure is gone.
+
+If someone gets treasure you wanted, **remember Rule #5**, and that you can negotiate, barter, trade, and buy things from each other, *in character*. And if they don't want to trade, maybe you'll get the phat loot they wanted, and can trade next time.
+
+
