@@ -74,7 +74,7 @@ Each player will have their own inventory and gold, which is their private owner
 
 When treasure is found or recovered from a monster, all players will roll 1d6 to determine the order in which they may choose treasure. Each player chooses one item or a handful of coins to take until all the treasure is gone.
 
-If someone gets treasure you wanted, **remember Rule #5**, and that you can negotiate, barter, trade, and buy things from each other, *in character*. And if they don't want to trade, maybe you'll get the phat loot they wanted, and can trade next time.
+If someone gets treasure you wanted, **remember Rule #4**, and that you can negotiate, barter, trade, and buy things from each other, *in character*. And if they don't want to trade, maybe you'll get the phat loot they wanted, and can trade next time.
 
 ### Combat
 
