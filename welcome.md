@@ -108,4 +108,12 @@ We're going to keep it flexible since we all have different schedules. But we're
 
 Experience! We need it. You want it. You get it when you show up. Try to show up, so you don't get too far behind and get eaten by a Dragon.
 
+#### Friends
+
+The more the merrier! It's hard to DM for lots of people, including inexperienced people, but having lots of folks can be fun, and not every one needs to come to every session.
+
+Before you invite or bring a friend to a session, make sure everyone is OK with it, since it will likely slow down play and can be a distraction. If your friend is inexperienced, try to help tutor them until they get the swing of things.
+
+## :beer: :heart: :star:
+
 Once again, always remember **Rule #1**! Have fun!
