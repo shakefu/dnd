@@ -80,9 +80,9 @@ If someone gets treasure you wanted, **remember Rule #4**, and that you can nego
 
 Your character's carrying capacity is 10 (ten) times your Strength score. So if you have 12 Strength, you can carry up to 120 pounds freely. 
 
-If you carry more than this, you are Encumbered. When you are encumbered your move speed is halved and you have disadvantage on ability checks, attack roles, and saving throws that use Strength or Dexterity.
+If you carry more than this, you are Encumbered. When you are encumbered your move speed is halved and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength or Dexterity.
 
-You character's maximum carry weight is 15 (fifteen) times your Strength score. If you carry more than this, you cannot move and all attack rolls against you have Advantage.
+You character's maximum carry weight is 15 (fifteen) times your Strength score. If you carry more than this, you cannot move, and all attack rolls against you have Advantage.
 
 Your character can push, drag, or lift a weight in pounds up to twice your carrying capacity, or 20 (twenty) times your Strength.
 
